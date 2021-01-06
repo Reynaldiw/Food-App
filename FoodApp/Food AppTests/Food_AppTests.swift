@@ -2,7 +2,7 @@
 //  Food_AppTests.swift
 //  Food AppTests
 //
-//  Created by Amin faruq on 24/12/20.
+//  Created by Reynaldi Wijaya on 06/01/21.
 //
 
 import XCTest
